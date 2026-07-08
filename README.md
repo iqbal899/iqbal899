@@ -62,16 +62,11 @@ CSE Student at JEC | Full Stack Developer | TypeScript | Node.js | Express.js | 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=plastic&logo=render&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white)
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=iqbal899&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=iqbal899&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=iqbal899&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iqbal899&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=iqbal899&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbal899&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ## 📈 Contribution Graph
 
