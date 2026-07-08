@@ -78,15 +78,15 @@ CSE Student @ JEC | Full Stack Developer | React | React Native | TypeScript | N
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=iqbal899&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iqbal899&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iqbal899&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=iqbal899&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=iqbal899&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbal899&theme=tokyonight&hide_border=false&layout=compact" />
 </p>
 
 # 📈 Contribution Graph
