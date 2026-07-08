@@ -1,6 +1,10 @@
 # 💫 About Me:
 CSE Student at JEC | Full Stack Developer | TypeScript | Node.js | Express.js | Hono | React.js | MongoDB |<br>PostreSQL | MySQL
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iqbal899&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Public%20Repos-20-success?style=for-the-badge&logo=github" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jinnatul-iqbal-513563350) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jinnatuliqbal99@gmail.com) 
