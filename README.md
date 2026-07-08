@@ -1,5 +1,8 @@
 # 💫 About Me:
-CSE Student at JEC | Full Stack Developer | TypeScript | Node.js | Express.js | Hono | React.js | MongoDB |<br>PostgreSQL | MySQL
+<h1 align="center">Hi 👋, I'm Jinnatul Iqbal</h1>
+<h3 align="center">
+CSE Student @ JEC | Full Stack Developer | React | React Native | TypeScript | Node.js | Express.js | Hono | MongoDB | PostgreSQL
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iqbal899&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
@@ -22,7 +25,9 @@ CSE Student at JEC | Full Stack Developer | TypeScript | Node.js | Express.js | 
 
 # 💻 Tech Stack
 
-### 🚀 Languages
+<h3 align="center">🚀 Languages</h3>
+
+<p align="center">
 
 ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
@@ -30,7 +35,11 @@ CSE Student at JEC | Full Stack Developer | TypeScript | Node.js | Express.js | 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
 
-### 🎨 Frontend
+</p>
+
+<h3 align="center">🎨 Frontend</h3>
+
+<p align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
@@ -39,13 +48,21 @@ CSE Student at JEC | Full Stack Developer | TypeScript | Node.js | Express.js | 
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=plastic&logo=expo&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)
 
-### ⚙️ Backend
+</p>
+
+<h3 align="center">⚙️ Backend</h3>
+
+<p align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=plastic&logo=express&logoColor=61DAFB)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=plastic&logo=hono&logoColor=white)
 
-### 🗄️ Databases & ORM
+</p>
+
+<h3 align="center">🗄️ Databases & ORM</h3>
+
+<p align="center">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
@@ -53,7 +70,11 @@ CSE Student at JEC | Full Stack Developer | TypeScript | Node.js | Express.js | 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=plastic&logoColor=black)
 
-### ☁️ Tools & Platforms
+</p>
+
+<h3 align="center">☁️ Tools & Platforms</h3>
+
+<p align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
@@ -62,12 +83,26 @@ CSE Student at JEC | Full Stack Developer | TypeScript | Node.js | Express.js | 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=plastic&logo=render&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=iqbal899&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=iqbal899&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=iqbal899&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</p>
 
+# 📊 GitHub Stats
 
-## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=iqbal899&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iqbal899&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=iqbal899&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+# 📈 Contribution Graph
+
+<p align="center">
 
 [![Iqbal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iqbal899&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</p>
