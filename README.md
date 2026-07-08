@@ -6,7 +6,7 @@ CSE Student @ JEC | Full Stack Developer | React | React Native | TypeScript | N
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iqbal899&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Public%20Repos-20-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Public%20Repos-20%2B-success?style=for-the-badge&logo=github" />
 </p>
 
 ## 🌐 Connect With Me
