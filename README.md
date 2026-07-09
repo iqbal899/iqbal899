@@ -82,14 +82,9 @@ CSE Student @ JEC | Full Stack Developer | React | React Native | TypeScript | N
   <img src="https://github-stats-extended.vercel.app/api?username=iqbal899&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
 </p>
 
-<!-- <p>
-  <img src="https://streak-stats.demolab.com?user=iqbal899&theme=tokyonight&hide_border=false" />
-</p> -->
 <p>
-  <a href="https://github.com/iqbal899">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbal899&background=1A1B27&stroke=70A5FD&ring=BB9AF7&fire=F7768E&currStreakNum=C0CAF5&currStreakLabel=7AA2F7&sideNums=C0CAF5&sideLabels=7AA2F7&dates=A9B1D6&hide_border=false" />
-  </a>
-</p>
+  <img src="https://streak-stats.demolab.com?user=iqbal899&theme=tokyonight&hide_border=false" />
+</p> 
 
 <p>
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=iqbal899&theme=tokyonight&layout=compact" />
