@@ -20,7 +20,7 @@ CSE Student @ JEC | Full Stack Developer | React | React Native | TypeScript | N
 
 <td width="35%">
 
-<img src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8" width="300"/>
+<img src="https://pixabay.com/gifs/cat-kitten-black-cats-peak-17978/" width="300"/>
 
 </td>
 
