@@ -20,7 +20,7 @@ CSE Student @ JEC | Full Stack Developer | React | React Native | TypeScript | N
 
 <td width="35%">
 
-<img src="[https://user-images.githubusercontent.com/74038190/212897782-96581576-8d0e-4c72-9d0f-8b6f7bfb3f2d.gif"](https://tenor.com/en-GB/view/catusjksk-gif-11356849305969337115) width="300"/>
+<img src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8" width="300"/>
 
 </td>
 
