@@ -1,6 +1,12 @@
-# 💫 About Me:
+# 💫 About Me
+
+<table>
+<tr>
+
+<td width="65%">
 
 <h1>Hi 👋, I'm Jinnatul Iqbal</h1>
+
 <h3>
 CSE Student @ JEC | Full Stack Developer | React | React Native | TypeScript | Node.js | Express.js | Hono | MongoDB | PostgreSQL
 </h3>
@@ -9,6 +15,17 @@ CSE Student @ JEC | Full Stack Developer | React | React Native | TypeScript | N
   <img src="https://komarev.com/ghpvc/?username=iqbal899&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Public%20Repos-20%2B-success?style=for-the-badge&logo=github" />
 </p>
+
+</td>
+
+<td width="35%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8d0e-4c72-9d0f-8b6f7bfb3f2d.gif" width="300"/>
+
+</td>
+
+</tr>
+</table>
 
 ## 🌐 Connect With Me
 
