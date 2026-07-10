@@ -3,7 +3,7 @@
 <table>
 <tr>
 
-<td width="65%">
+<td width="80%">
 
 <h1>Hi 👋, I'm Jinnatul Iqbal</h1>
 
@@ -18,9 +18,9 @@ CSE Student @ JEC | Full Stack Developer | React | React Native | TypeScript | N
 
 </td>
 
-<td width="35%">
+<td width="20%">
 
-<img src="https://cdn.pixabay.com/animation/2025/02/04/01/20/01-20-23-935_512.gif" width="300"/>
+<img src="https://cdn.pixabay.com/animation/2025/02/04/01/20/01-20-23-935_512.gif" width="120"/>
 
 </td>
 
