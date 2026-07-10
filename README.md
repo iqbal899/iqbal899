@@ -100,7 +100,7 @@ CSE Student @ JEC | Full Stack Developer | React | React Native | TypeScript | N
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=iqbal899&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=iqbal899&theme=tokyonight&hide_border=false&v=1" />
 </p> 
 
 <p>
