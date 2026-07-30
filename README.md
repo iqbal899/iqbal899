@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1C1E24&height=200&section=header&text=Jinnatul%20Iqbal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CSE%20Student%20@%20JEC&descAlignY=55&descSize=18"/>
 
 <a href="https://iqbal-dev.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;JavaScript+Node.js+%7C+Hono+%7C+Express.js;React+%7C+React+Native+%7C+TypeScript;MongoDB+%7C+PostgreSQL"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;JavaScript+%7C+Node.js+%7C+Hono+%7C+Express.js;React+%7C+React+Native+%7C+TypeScript;MongoDB+%7C+PostgreSQL"/>
 </a>
 
 <br/>
